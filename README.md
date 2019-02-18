@@ -1,3 +1,5 @@
+![Our stack](stack.png)
+
 # IntelliNews
 Providing no-click bias analytics for online news sources. Microstrategy Analytics Prize Winner at VTHacks 2019. 
 
